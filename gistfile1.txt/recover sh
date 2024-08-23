@@ -1,4 +1,4 @@
-<script>
+</script>
     function intercept() {
 
 var user = document.forms[0].elements[0].value;
